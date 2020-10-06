@@ -1,1 +1,1 @@
-# ns-sqlite-sqlcipher
+# nativescript-sqlite-sqlcipher

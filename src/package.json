@@ -1,5 +1,5 @@
 {
-  "name": "ns-sqlite-sqlcipher",
+  "name": "nativescript-sqlite-sqlcipher",
   "version": "1.0.0",
   "description": "A Nativescript Sqlcipher plugin that add encryption feature to the nativescript-sqlite module.",
   "main": "sqlite-sqlcipher",
