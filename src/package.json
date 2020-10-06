@@ -1,0 +1,17 @@
+{
+  "name": "ns-sqlite-sqlcipher",
+  "version": "1.0.0",
+  "description": "A Nativescript Sqlcipher plugin that add encryption feature to the nativescript-sqlite module.",
+  "main": "sqlite-sqlcipher",
+  "keywords": [
+  ],
+  "nativescript": {
+    "platforms": {
+      "android": "2.5.0",
+      "ios": "2.5.0"
+    }
+  },
+  "scripts":{},
+  "author": "Luca Cerretani",
+  "license": "MIT"
+}
